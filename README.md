@@ -6,4 +6,6 @@ This neural network had achieved an accuracy of 99.7% in predicting any student 
    # 2. We have prepared a function or module which tells what are the other courses/batchs a particular student is elegible apart from the targeted batch.
    # 3. We have shared a small data visualization which is done using Tableau, this visualization tell us about some data insights.
 
+# For more details please go through the Course suggestion Algo Page taker.ipynb file present in this repository for knowing more about how we have worked upon course suggestion part.
+
 
